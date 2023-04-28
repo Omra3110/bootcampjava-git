@@ -1,11 +1,4 @@
 # bootcampjava-git
-Projecto inicial para trabajar con git
+Desafio HTML -M1
+Desafio HTML -M2
 
-## Indices 
-* elemento1  
-* elemento2
-* elemento3
-* elemento4
-
-## Otro contenido
-Mas texto
