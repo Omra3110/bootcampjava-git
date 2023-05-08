@@ -1,0 +1,40 @@
+img {
+    width: 55px;
+    margin-right: 15px;
+}
+
+.titulo {
+    color:#04146c;
+    font-size: 28.11pt;
+    font-family: 'Mulish';
+    font-weight: 900;
+    text-align:left;
+    
+}
+
+.lineasp {
+    color:#0a2ff1;
+    font-size: 16.17pt;
+    font-family: 'Mulish';
+    font-weight: 600;
+    text-align:left;
+    display: inline;
+    margin-top: 0px;
+    
+}
+
+.texto{
+    color:#04146c;
+    font-size: 14.98pt;
+    font-family: 'Mulish';
+    font-weight: 600;
+    text-align:left;
+    width: 40%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 70px;
+
+}
+
+
+
