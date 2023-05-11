@@ -1,0 +1,58 @@
+
+
+.titulo {
+    color:#04146c;
+    font-size: 18pt;
+    font-family: 'Mulish';
+    text-align:center;
+    }
+
+.contenedor-gral{
+    text-align: center ;
+    box-sizing: border-box;
+
+}  
+
+.btn-open-pos{
+    color:white;
+    font-size: 22.55pt;
+    font-family: 'Mulish';
+    background-color:#8a9af1 ;
+    color: white;  
+    border: 0px;
+    width: 500px;
+    height: 50px;
+    margin-bottom: 10px;
+    padding: 10px;
+    
+}
+
+.cuadros {
+    color:#414166;
+    font-size: 14pt;
+    font-family: 'Mulish';
+    text-align:left;
+    width: 500px;
+    height: 50px;
+    margin-bottom: 10px;
+    padding: 10px;
+    
+}
+.contenedor-btn{
+    border-bottom:#04146c 1px solid;
+}
+
+.final-btn{
+    color:#0a2ff1;
+    font-size: 14pt;
+    font-family: 'Mulish';
+    width: 500px;
+    height: 50px;
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 0px;  
+
+}
+
+
+
