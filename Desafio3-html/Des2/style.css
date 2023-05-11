@@ -1,0 +1,44 @@
+img {
+    width: 30%;
+    margin-right: 15px;
+}
+
+.titulo {
+    color:#0a2ff1;
+    font-size: 50pt;
+    font-family: 'Poppins';
+    font-weight: 900;
+    text-align:left;
+    
+}
+
+.lineasp {
+    color:#0a2ff1;
+    font-size: 22.55pt;
+    font-family: 'Poppins';
+    text-align:left;
+    display: inline;
+    margin-top: 0px;
+    background-color: #eff2ff ;
+    
+}
+
+.texto{
+    color:#0a2ff1;
+    font-size: 22.55pt;
+    font-family: 'Poppins';
+    text-align:left;
+    background-color:#8a9af1 ;
+    color: white;  
+}
+
+.contenedor-img{
+    border-bottom:#3ffff3 3px solid;
+}
+
+img{
+    width: 30%;
+}
+
+
+
