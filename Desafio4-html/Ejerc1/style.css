@@ -9,8 +9,10 @@
 
 .contenedor-gral{
     width: 50%;
-    text-align: center;   
-
+    text-align: center;  
+    background-image: url("M4-desafio1-fondo-form.png");
+    padding: 50px;
+    
 }  
 
 .btn-open-pos{
@@ -40,6 +42,7 @@
     height: 400px;
     padding: 20px;
     text-align: center;
+    background-color: white;
 }
 
 
