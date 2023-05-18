@@ -1,0 +1,49 @@
+
+
+.titulo {
+    color:#04146c;
+    font-size: 24.48pt;
+    font-family: 'Mulish';
+    text-align:center;
+    }
+
+.contenedor-gral{
+    width: 50%;
+    text-align: center;   
+
+}  
+
+.btn-open-pos{
+    color:white;
+    font-size: 17pt;
+    font-family: 'Mulish';
+    background-color:#15163d;
+    width: 500px;
+    height: 50px;
+    margin-bottom: 10px;
+    
+}
+
+.cuadros {
+    color:#414166;
+    font-size: 17pt;
+    font-family: 'Mulish';
+    text-align:ce;
+    width: 500px;
+    height: 50px;
+    margin-bottom: 10px;
+    padding: 20px;   
+}
+
+.form{
+    width: 600px;
+    height: 400px;
+    padding: 20px;
+    text-align: center;
+}
+
+
+
+
+
+
