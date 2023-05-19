@@ -1,0 +1,47 @@
+.title {
+    color: #0a2ff1;
+    font-size: 72pt;
+    font-family: 'Roboto Slab';
+    text-align: center;
+}
+
+.button {
+    color: #04146c;
+    font-size: 18pt;
+    font-family: 'Roboto';
+    border: 0px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: white;
+
+}
+
+.button:hover {
+    background-color: rgb(130, 128, 128);
+}
+
+.text {
+    color: #04146c;
+    font-size: 26pt;
+    font-family: 'Roboto';
+    text-align: center;
+}
+
+header {
+    border-top: #4459d3 20px solid;
+    padding-top: 10px;
+
+}
+
+body {
+    margin: 0px;
+}
+
+#img-logo {
+    width: 5%;
+    margin-left: 10px;
+}
+
+.img{
+    width: 100%;
+}
