@@ -1,0 +1,21 @@
+.title {
+    color: #3957f1;
+    font-family: 'Mulish bold';
+    text-align: center;
+    font-size: 53.33px;
+}
+
+.card-text {
+    color: #15163d;
+    font-family: 'Mulish';
+    text-align: center;
+    font-size: 28px;
+
+}
+
+.card {
+    margin: 10px;
+    box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.14);
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.14);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.14);
+}
