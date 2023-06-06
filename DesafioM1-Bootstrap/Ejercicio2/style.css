@@ -1,0 +1,49 @@
+.title {
+    color: #0a2ff1;
+    font-family: 'Mulish';
+    text-align: center;
+    font-size: 90.66px;
+    width: 100%;
+  
+}
+
+.card-title1 {
+    color: white;
+    font-family: 'Mulish';
+    position: absolute;
+    bottom: 50px;
+    text-align: center;
+
+}
+
+.card-text {
+    color: white;
+    font-family: 'Mulish';
+    position: absolute;
+    bottom: 5px;
+    text-align: center;
+
+}
+.card-title2 {
+    color: white;
+    font-family: 'Mulish';
+    position: absolute;
+    bottom: 50px;
+    left: 25%;
+
+}
+.card-title3 {
+    color: white;
+    font-family: 'Mulish';
+    position: absolute;
+    bottom: 50px;
+    left: 15%;
+
+}
+
+.card {
+    margin: 10px;
+    box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.14);
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.14);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.14);
+}
