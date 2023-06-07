@@ -1,0 +1,46 @@
+.title {
+    color:  #04146c;
+    font-family: 'Mulish';
+    text-align: center;
+    font-size: 65.33px;
+
+}
+
+.card-text {
+    color:#04146c;
+    font-family:'Mulish';
+     font-size: 24px;
+
+}
+
+.card-title1 {
+    color:#0a2ff1;
+    font-family:'Mulish';
+     font-size: 40px;
+
+}
+.card-title2 {
+    color:#04146c;
+    font-family: 'Mulish';
+     font-size: 24px;
+
+}
+
+.btn-open-pos{
+    color:#04146c;
+    font-family: 'Mulish';
+    font-size: 24px;
+    border: #0a2ff1 2px solid;
+
+}
+
+
+.card-body{
+    text-align: center;
+}
+
+.card {
+    border: 0px;
+ 
+    
+}
