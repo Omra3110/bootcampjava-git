@@ -1,0 +1,21 @@
+.title {
+    color:  #04146c;
+    font-family: 'Mulish';
+    text-align: left;
+    font-size: 49.33px;
+
+}
+
+.card-text {
+    color:#04146c;
+    font-family:'Mulish';
+    font-size: 24px;
+
+}
+
+
+.flexAligner { /*Combinamos ambos métodos*/
+    display: flex;
+    align-content: center;
+    align-items: center;
+  }
