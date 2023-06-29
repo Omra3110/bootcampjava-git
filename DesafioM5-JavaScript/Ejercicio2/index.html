@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio 2</title>
+
+</head>
+
+<body>
+
+    <div class="contenedor-gral">
+        <h1 class="titulo">Calculo de presupuesto</h1>
+        <input id="ingresoTotal" placeholder="Introduzca su monto de ingresos">
+        <button id="calculoCategorias">Calcular</button>
+        <h2 id="gastosNecesarios"></h2>
+        <h2 id="gastosOpcionales"></h2>
+        <h2 id="ahorroInversion"></h2>
+
+    </div>
+
+</body>
+<script src="jquery-3.7.0.min.js"></script>
+<script> $(document).ready(function () {
+        $("#calculoCategorias").click(function () {
+            ingresoTotal = $("#ingresoTotal").val()
+            gastosNecesarios = $("#gastosNecesarios").val()
+            gastosOpcionales = $("#gastosOpcionales").val()
+            ahorroInversion = $("#ahorroInversion").val()
+            gastosNecesarios = ingresoTotal * 0.5
+            gastosOpcionales = ingresoTotal * 0.3
+            ahorroInversion = ingresoTotal * 0.2
+            $("#gastosNecesarios").text("Gastos Necesarios :" + gastosNecesarios)
+            $("#gastosOpcionales").text("Gastos Opcionales :" + gastosOpcionales)
+            $("#ahorroInversion").text("Ahorro e Inversion  :" + ahorroInversion)
+
+        });
+    });   </script>
+
+</html>
